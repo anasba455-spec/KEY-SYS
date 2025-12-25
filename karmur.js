@@ -1,4 +1,4 @@
-import pkgDiscord from 'discord.js-selfbot-v13-siuuu';
+impt pkgDiscord from 'discord.js-selfbot-v13-siuuu';
 const { Client } = pkgDiscord;
 import {
     joinVoiceChannel,
